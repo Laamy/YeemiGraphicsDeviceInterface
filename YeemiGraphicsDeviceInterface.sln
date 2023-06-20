@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{44C957B6-C702-4C98-86A7-46096650A013}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YGDI2D", "YGDI2D", "{1A6D9DEA-167C-4045-A4E1-1AD353A65C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGDIWindow_2D", "YGDIWindow\YGDIWindow_2D.csproj", "{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A6D9DEA-167C-4045-A4E1-1AD353A65C08} = {44C957B6-C702-4C98-86A7-46096650A013}
+		{7A67DFC4-3D46-4FC1-9F35-AB1BB581F5CA} = {1A6D9DEA-167C-4045-A4E1-1AD353A65C08}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28126DE8-07F9-4A17-A183-ADE25438D8C6}
+	EndGlobalSection
+EndGlobal
