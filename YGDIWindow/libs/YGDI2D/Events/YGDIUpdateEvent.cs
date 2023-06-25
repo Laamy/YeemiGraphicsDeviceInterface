@@ -9,6 +9,7 @@ namespace YGDIWindow_2D.YGDI2D.Events
 
         public YGDIUpdateEvent(YGDIContext context, double deltaTime)
         {
+            // set ygdi context and deltatime
             Context = context;
             DeltaTime = deltaTime;
         }
